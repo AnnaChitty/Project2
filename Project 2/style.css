@@ -1,0 +1,29 @@
+
+h1 {
+    color: navy;
+    font-size: 100px;
+    text-align: center;
+}
+
+h2 {
+    color: navy;
+    font-size: xx-large;
+}
+
+p {
+    color: navy;
+}
+
+.travel {
+    color: palevioletred;
+}
+
+.tv {
+    color: plum;
+}
+
+.hobbies {
+    color: gold;
+}
+
+
